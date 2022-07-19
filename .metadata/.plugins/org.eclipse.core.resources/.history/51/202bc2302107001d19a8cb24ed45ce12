@@ -1,0 +1,8 @@
+package 메소드리턴;
+
+public class ReturnValue {
+
+	void getCat() {
+		System.out.println("고양이를 리턴합니다");
+	}
+}
