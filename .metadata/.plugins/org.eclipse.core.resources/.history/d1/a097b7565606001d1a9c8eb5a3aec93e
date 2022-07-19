@@ -1,0 +1,10 @@
+package 조건문;
+
+public class Switch문2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

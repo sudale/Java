@@ -1,0 +1,13 @@
+package application;
+
+public class ºó¹®ÀÚ¿­ {
+
+	public static void main(String[] args) {
+		// blank vs empty
+		String myText = " ";
+		System.out.println(myText.isEmpty());
+		System.out.println(myText.isBlank());
+
+	}
+
+}

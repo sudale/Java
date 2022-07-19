@@ -1,0 +1,25 @@
+package application;
+
+public class 문자열메소드1 {
+
+	public static void main(String[] args) {
+		// charAt(인덱스번호) : 인덱스 번호에 해당 문자가 리턴
+		String text = "ABCDEF";
+		
+		System.out.println(text.charAt(0));
+		System.out.println(text.charAt(1));
+		System.out.println(text.charAt(2));
+		System.out.println(text.charAt(3));
+		System.out.println(text.charAt(4));
+		System.out.println(text.charAt(5));
+		
+		// 문자열 알파벳순 비교
+		String word1 = "banana";
+		String word2 = "apple";
+		//compareTo 는 문자열들을 비교해서 큰순서 - 작은순서를 숫자로 리턴
+		System.out.println(word1.compareTo(word2));
+
+		
+	}
+
+}

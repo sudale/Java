@@ -1,0 +1,14 @@
+package integerVariables;
+
+public class ∫“∏∞∏Æ≈Õ∑≤ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean boolVar1 = true;
+		boolean boolVar2 = false;
+		
+		System.out.println(bool1);
+		System.out.println(bool2);
+	}
+
+}

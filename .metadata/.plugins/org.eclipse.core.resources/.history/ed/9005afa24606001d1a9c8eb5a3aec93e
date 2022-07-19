@@ -1,0 +1,16 @@
+package 조건문;
+
+import java.util.Scanner;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("1. 프린트 '헬로우'");
+		System.out.println("2. 프린트 '안녕 ?'");
+		System.out.println("3. 프로그램 종료");
+		System.out.printf("옵션을 선택 > ");
+		int 메뉴 = scanner.nextInt();
+	}
+
+}

@@ -1,0 +1,15 @@
+package integerVariables;
+
+public class Casting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 형 변환
+		// 자동 형 변환
+		byte a = 32;
+		short b = a;
+		int c = b;
+		long d = c;
+	}
+
+}

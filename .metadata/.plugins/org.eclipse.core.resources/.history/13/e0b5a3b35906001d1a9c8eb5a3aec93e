@@ -1,0 +1,13 @@
+package 조건문;
+
+public class 패스워드체크 {
+
+	public static void main(String[] args) {
+		// 유저가 입력한 패스워드를 설정한 패스워드와 비교
+		final String USER_PASSWORD = "hello";
+		
+		System.out.println("Enter password > ");
+
+	}
+
+}
