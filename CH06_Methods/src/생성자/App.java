@@ -20,6 +20,11 @@ public class App {
 		System.out.println(p2.getHeight());
 		System.out.println(p3.getName());
 		System.out.println(p3.getHeight());
+		
+		Person p4 = new Person();
+		Person p5 = new Person("울버린");
+		
+		System.out.println(p4.getName());
 
 	}
 

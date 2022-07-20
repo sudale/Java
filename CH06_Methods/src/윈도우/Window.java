@@ -27,9 +27,7 @@ public class Window {
 	public void setIsVisible(boolean isVisible) {
 		this.isVisible = isVisible;
 	}
-	public void setVisible(boolean isVisible) {
-		this.isVisible = isVisible;
-	}
+
 	public int getIsVisible() {
 		return width;
 	}

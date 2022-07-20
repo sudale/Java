@@ -8,4 +8,7 @@
     <fullyQualifiedTypeName name="게터와세터.Person"/>
     <fullyQualifiedTypeName name="윈도우.Window"/>
     <fullyQualifiedTypeName name="생성자.Person"/>
+    <fullyQualifiedTypeName name="school.Student"/>
+    <fullyQualifiedTypeName name="application.Cat"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
