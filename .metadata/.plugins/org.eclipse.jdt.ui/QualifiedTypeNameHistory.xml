@@ -11,4 +11,6 @@
     <fullyQualifiedTypeName name="school.Student"/>
     <fullyQualifiedTypeName name="application.Cat"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="클래스.CylinderTest"/>
+    <fullyQualifiedTypeName name="com.sun.jmx.remote.util.OrderClassLoaders"/>
 </qualifiedTypeNameHistroy>
