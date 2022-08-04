@@ -49,12 +49,8 @@ public class Toolbar extends JToolBar {
 		JButton redButton = new JButton("Red");
 		JButton blueButton = new JButton("Blue");
 
-		redButton.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-				mainPanel.setBackground(Color.red);
-
-			}
-		});
+		redButton.addActionListener(e -> mainPanel.setBackground(Color.red));
+		
 		blueButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				mainPanel.setBackground(Color.blue);
